@@ -1,3 +1,2 @@
 This is Just a test!
 Testing Git.
-Testing
